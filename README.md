@@ -2,7 +2,7 @@
 
 RFM segmentation and clustering of 93K+ Olist e-commerce customers using Python and scikit-learn — with Power BI dashboard revealing $4.23M at-risk revenue and actionable retention insights.
 
-![Dashboard](dashboard_screenshorts/page1.png)
+![Dashboard](screenshorts/page1.png)
 
 ## Key Insights
 - Cannot Lose segment: $4.23M revenue but 394 days inactive — highest retention priority
